@@ -1,0 +1,17 @@
+# Build the AI agent
+pydantic-ai
+
+# Create the API
+fastapi
+
+# Run the server
+uvicorn
+
+# Get papers from OpenAlex
+httpx
+
+# Load secret API keys
+python-dotenv
+
+# Connect to Groq AI
+groq

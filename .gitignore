@@ -1,0 +1,15 @@
+# Secret API keys
+.env
+.env.*
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Frontend dependencies
+node_modules/
+dist/
+
+# macOS files
+.DS_Store
